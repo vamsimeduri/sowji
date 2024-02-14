@@ -1,10 +1,6 @@
 vamsi
 sowji
-<<<<<<< HEAD
-<<<<<<< HEAD
 teja
-=======
->>>>>>> parent of 514f218 (intermittenet)
-=======
->>>>>>> parent of 514f218 (intermittenet)
 its okay
+man this is horriable#
+added b2
