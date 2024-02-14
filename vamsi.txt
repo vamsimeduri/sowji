@@ -1,10 +1,7 @@
 vamsi
 sowji
-<<<<<<< HEAD
-<<<<<<< HEAD
+heloow
+how are you
 teja
-=======
->>>>>>> parent of 514f218 (intermittenet)
-=======
->>>>>>> parent of 514f218 (intermittenet)
 its okay
+
