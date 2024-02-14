@@ -3,12 +3,8 @@ sowji
 teja
 its okay
 man this is horriable#
-<<<<<<< HEAD
-added b1
-=======
 added b2
 heloow
 how are you
 teja
 its okay
->>>>>>> 2f60a566691404fb10d3411586e47e8a031ba7ad
